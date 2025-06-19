@@ -16,7 +16,7 @@ I'm a software developer based in New York City, passionate about creating solut
 
 [![Checkout my Global Projects](https://github.com/ChrisBrasil10/ReadMeMap/blob/main/myMapPNG.png)](https://chrisbrasil10.github.io/ReadMeMap/index.html)
 - **🔵 ChessBot**: Created a voice-controlled smart chessboard using Google Speech-to-Text and a custom linear motion system
-- **🟢 Health Reflect**: Built an intelligent air-quality monitoring mirror on Raspberry Pi
+- **🟢 Health Reflect**: Built an intelligent mirror on a Raspberry Pi that monitored air quality in Abu Dhabi
 - **🟠 Rapid Ride**: Developed a digital twin to simulate a electric scooter program in Hanoi
 
 
