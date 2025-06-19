@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi I'm Chris Brasil 🤙🏽
 
-<!--
-**ChrisBrasil10/ChrisBrasil10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer based in New York City, passionate about creating solutions to modern day problems
 
-Here are some ideas to get you started:
+- 🔭 **Current Role**: Software Engineering Intern at [Whirlpool](https://www.clarifai.com/](https://www.whirlpoolcorp.com/))
+- 🌐 **Website**: [chrisbrasil.com](https://sites.google.com/nyu.edu/chrisbrasil/home)
+- 💼 **LinkedIn**: [Chris Brasil](https://www.linkedin.com/in/chris-brasil/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- **Languages**: Python, C/C++, Java, HTML/CSS, JavaScript, SQL (SQLite)
+- **Frameworks/Libraries**: React, React Native, Next.js, GraphQL, tRPC
+- **Build Tools**: Android Studio, VSCode, Pycharm, Clion
+
+## 📈 GitHub Stats
+
+
+
+## 📫 Get in Touch
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/chris-brasil/) or [Email](christopherdbrasil@gmail.com).
