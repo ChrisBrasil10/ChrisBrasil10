@@ -14,7 +14,8 @@ I'm a software developer based in New York City, passionate about creating solut
 
 ## 📈 GitHub Stats
 
-⚠️ In the works ⚠️
+[![Checkout my Global Projects](https://github.com/ChrisBrasil10/ReadMeMap/blob/main/myMapPNG.png)](https://chrisbrasil10.github.io/ReadMeMap/index.html)
+
 
 ## 📫 Get in Touch
 
