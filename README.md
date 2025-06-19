@@ -2,7 +2,7 @@
 
 I'm a software developer based in New York City, passionate about creating solutions to modern day problems
 
-- 🔭 **Current Role**: Software Engineering Intern at [Whirlpool](https://www.clarifai.com/](https://www.whirlpoolcorp.com/))
+- 🔭 **Current Role**: Software Engineering Intern at [Whirlpool](https://www.whirlpoolcorp.com/)
 - 🌐 **Website**: [chrisbrasil.com](https://sites.google.com/nyu.edu/chrisbrasil/home)
 - 💼 **LinkedIn**: [Chris Brasil](https://www.linkedin.com/in/chris-brasil/)
 
