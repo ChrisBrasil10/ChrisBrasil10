@@ -12,7 +12,7 @@ I'm a software developer based in New York City, passionate about creating solut
 - **Frameworks/Libraries**: React, React Native, Next.js, GraphQL, tRPC
 - **Build Tools**: Android Studio, VSCode, Pycharm, Clion
 
-## 🌎 Checkout My Global Projects
+## 🌎 Checkout My Global Projects by Clicking the Map!
 
 [![Checkout my Global Projects by Clicking the Map!](https://github.com/ChrisBrasil10/ReadMeMap/blob/main/myMapPNG.png)](https://chrisbrasil10.github.io/ReadMeMap/)
 - **🔵 ChessBot**: Created a voice-controlled smart chessboard using Google Speech-to-Text and a custom linear motion system
